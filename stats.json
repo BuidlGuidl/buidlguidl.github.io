@@ -1,0 +1,88 @@
+{
+  "assetsByChunkName": {
+    "path---tags-other": [
+      "path---tags-other-1c7acd466a1758d4c5c6.js",
+      "path---tags-other-1c7acd466a1758d4c5c6.js.map"
+    ],
+    "path---tags-programming": [
+      "path---tags-programming-37bbb46311896efd8363.js",
+      "path---tags-programming-37bbb46311896efd8363.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-layouts-index-jsx": [
+      "component---src-layouts-index-jsx-8c5ee6002ec9984c82d9.js",
+      "component---src-layouts-index-jsx-8c5ee6002ec9984c82d9.js.map"
+    ],
+    "path---categories-tech": [
+      "path---categories-tech-42bef431e97008e02601.js",
+      "path---categories-tech-42bef431e97008e02601.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "path---bold-mage": [
+      "path---bold-mage-c20c29b48c97205e8909.js",
+      "path---bold-mage-c20c29b48c97205e8909.js.map"
+    ],
+    "component---src-templates-category-jsx": [
+      "component---src-templates-category-jsx-3f9f38b2a16b22af9077.js",
+      "component---src-templates-category-jsx-3f9f38b2a16b22af9077.js.map"
+    ],
+    "path---index": [
+      "path---index-c100e11cbb53994bf6d8.js",
+      "path---index-c100e11cbb53994bf6d8.js.map"
+    ],
+    "component---src-pages-about-jsx": [
+      "component---src-pages-about-jsx-98d05aeb2a2bb8cae8a4.js",
+      "component---src-pages-about-jsx-98d05aeb2a2bb8cae8a4.js.map"
+    ],
+    "path---author-genesis": [
+      "path---author-genesis-424bd49f33c3a9b38cc9.js",
+      "path---author-genesis-424bd49f33c3a9b38cc9.js.map"
+    ],
+    "component---src-templates-author-jsx": [
+      "component---src-templates-author-jsx-d9dcb651194ebdae2ab7.js",
+      "component---src-templates-author-jsx-d9dcb651194ebdae2ab7.js.map"
+    ],
+    "commons": [
+      "commons-c434f754b732745fbf49.js",
+      "build-js-styles.css",
+      "commons-c434f754b732745fbf49.js.map",
+      "build-js-styles.css.map"
+    ],
+    "component---src-templates-tag-jsx": [
+      "component---src-templates-tag-jsx-20e23471da3d1e948797.js",
+      "component---src-templates-tag-jsx-20e23471da3d1e948797.js.map"
+    ],
+    "component---src-templates-index-jsx": [
+      "component---src-templates-index-jsx-0c345ce44bbdaeb0ab1d.js",
+      "component---src-templates-index-jsx-0c345ce44bbdaeb0ab1d.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-templates-post-jsx": [
+      "component---src-templates-post-jsx-3641f27e295dfa57db97.js",
+      "component---src-templates-post-jsx-3641f27e295dfa57db97.js.map"
+    ],
+    "app": [
+      "app-6dea2a45debce282cd8a.js",
+      "build-js-styles.css",
+      "app-6dea2a45debce282cd8a.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---tags-stuff": [
+      "path---tags-stuff-69595bfa949d05de702e.js",
+      "path---tags-stuff-69595bfa949d05de702e.js.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
